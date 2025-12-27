@@ -8,6 +8,8 @@ This `README.md` is automatically generated from [`.dev_scripts/collection.csv`]
 We provide [scripts](.dev_scripts/main.py) to automatically generate `README.md` from CSV file or vice versa.
 
 Welcome to pull request to update or correct this collection. 🥰
+## Year 2026
+- **AAAI** (image) [FreeInpaint: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting](https://arxiv.org/abs/2512.21104). [[code]](https://github.com/CharlesGong12/FreeInpaint)
 ## Year 2024
 - **ECCV** (image) [A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting]( https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/7554_ECCV_2024_paper.php). [[code]]( https://github.com/open-mmlab/PowerPaint)  [[project]]( https://powerpaint.github.io/)
 - **ECCV** (image) [Improving Text-guided Object Inpainting with Semantic Pre-inpainting](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6251_ECCV_2024_paper.php). [[code]](https://github.com/Nnn-s/CATdiffusion)
